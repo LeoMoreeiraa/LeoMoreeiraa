@@ -6,7 +6,7 @@
 </div>
 
 **Repositório de inovação: automação, IA e dados transformados em soluções eficientes. 🚀**
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="./LeoMoreeiraa/me.png">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
