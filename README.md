@@ -6,6 +6,7 @@
 </div>
 
 **Repositório de inovação: automação, IA e dados transformados em soluções eficientes. 🚀**
+<img align="right" alt="" height="190px" src="./src/study.gif">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -28,7 +29,16 @@
   <a href="https://www.linkedin.com/in/leonardo-moreira-dos-santos2809/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+  <div style="text-align: center;" align="center">
+  <h3>** GitHub Stats **</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeoMoreeiraa&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=008CFF&text_color=FFF&border_radius=3&border_color=1A5276&icon_color=008CFF&theme=jolly" alt="GitHub stats">
 
+<a href="https://github.com/LeoMoreeiraa/github-readme-stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeoMoreeiraa&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=008CFF&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=1A5276&count_private=true" alt="Most Used Languages">
+</a>
+
+</div>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoMoreeiraa/LeoMoreeiraa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoMoreeiraa/LeoMoreeiraa/output/github-contribution-grid-snake-dark.svg">
