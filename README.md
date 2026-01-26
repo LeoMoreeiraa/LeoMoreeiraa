@@ -33,7 +33,7 @@
 <div style="text-align: center;">
   <h3>GitHub Stats</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=LeoMoreeiraa&show_icons=true&count_private=true&bg_color=000&title_color=008CFF&text_color=FFF&icon_color=008CFF&theme=jolly" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeoMoreeiraa&show_icons=true&count_private=true&bg_color=000&title_color=008CFF&text_color=FFF&icon_color=008CFF&theme=jolly" alt="GitHub stats"
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMoreeiraa&layout=compact&langs_count=10&bg_color=000&title_color=008CFF&text_color=FFF&theme=jolly" alt="Most Used Languages">
 </div>
